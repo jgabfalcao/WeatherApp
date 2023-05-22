@@ -7,11 +7,12 @@ const error404 = document.querySelector(".not-found");
 search.addEventListener("click", () => {
   const APIKey = "43f98ddb1eac334544eef5d5262f0ea5";
   const city = document.querySelector(".search-box input").value;
+  const lang = "pt_br";
 
   if (city === "") return;
 
   fetch(
-    `https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${APIKey}`
+    `https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${APIKey}&lang=${lang}`
   )
     .then((response) => response.json())
     .then((json) => {

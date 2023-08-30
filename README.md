@@ -7,13 +7,25 @@ Weather App é uma aplicação front end desktop e mobile construída durante um
 
 A aplicação consiste em um input que o usuario ira digitar o país ou cidade para verificar o clima por completo. O App tem uma requisição para a openweathermap que retorna todos esses dados.
 
+## Video Description
+
+<div align="center">
+
+![Mobile Video](https://github.com/jgabfalcao/WeatherApp/blob/main/images/mobile-video.gif)
+
+</div>
+
+
 ## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+
+<div align="center">
+
+![Mobile 1](https://github.com/jgabfalcao/WeatherApp/blob/main/images/mobile.png)
+
+</div>
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
-
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Web 1](https://github.com/jgabfalcao/WeatherApp/blob/main/images/desktop.png)
 
 # Tecnologias utilizadas
 ## Front end
